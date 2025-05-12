@@ -27,7 +27,7 @@ A **hyper-casual 2D arcade-style game** where the player controls a bouncing bal
 ## 🔗 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/BounceDash.git](https://github.com/saurabhbhamare/BounceDash-UnityAssignment.git
+   git clone https://github.com/saurabhbhamare/BounceDash-UnityAssignment.git
 
 
 
